@@ -1,6 +1,5 @@
 ---
 title: License Plate Detection
-<<<<<<< HEAD
 emoji: 😻
 colorFrom: purple
 colorTo: purple
