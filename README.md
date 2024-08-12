@@ -1,5 +1,6 @@
 ---
 title: License Plate Detection
+<<<<<<< HEAD
 emoji: 😻
 colorFrom: purple
 colorTo: purple
@@ -33,4 +34,3 @@ pip3 install cython-bbox
  python main.py data/test_images
 ```
 - `sample_imgs` is folder containing images
-
