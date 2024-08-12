@@ -1,0 +1,17 @@
+**__pycache__**
+
+# envirnments
+.env/
+
+# weights
+*.pt
+*.ckpt
+*.pth
+
+# others
+*.csv
+*.swp
+
+temp/
+temp.py
+results/
